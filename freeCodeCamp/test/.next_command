@@ -84,3 +84,4 @@ ls --color=auto -l
 more LICENSE-MIT
 clear
 ls --color=auto -l
+cd src
