@@ -190,3 +190,4 @@ find -name header.png
 find -name footer.jpeg
 move images/footer.jpeg client/assets/images/
 mv images/footer.jpeg client/assets/images/
+find
